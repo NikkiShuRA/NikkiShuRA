@@ -29,4 +29,3 @@
 ---
 
 **P.S.** Если у тебя есть идея для проекта или хочешь посоветоваться по БД — пиши, вместе веселее! ⭐️
-![](https://komarev.com/ghpvc/?username=NikkiShuRA&style=flat-square&color=blue)
